@@ -1,3 +1,3 @@
-【读写数据库的PHP类】
+【读写数据库的JSP类】
 <br/>
-【PHP class to read and write database】
+【JSP class to read and write database】
