@@ -1,2 +1,3 @@
-【读写数据库的PHP类】 
-【PHP class to read and write database】 
+【读写数据库的PHP类】
+<br/>
+【PHP class to read and write database】
