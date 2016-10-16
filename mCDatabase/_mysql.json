@@ -1,0 +1,17 @@
+{
+	"dbtype":"mysql"
+	,
+	"dblocation":"localhost"
+	,
+	"dbport":"3306"
+	,
+	"uid":"root"
+	,
+	"pwd":"wakelee"
+	,
+	"dbname":"mcdatabase"
+	,
+	"dbdriver":"com.mysql.jdbc.Driver"
+	,
+	"dbcharset":"utf-8"
+}
